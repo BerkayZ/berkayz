@@ -6,7 +6,6 @@
 
 <p align="center">
   Senior / Lead Backend Engineer · LLM &amp; Multi-Agent Systems<br>
-  📍 Istanbul, Türkiye · 🌍 Open to relocation (Netherlands · EU Blue Card eligible)
 </p>
 
 <p align="center">
