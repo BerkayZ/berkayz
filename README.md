@@ -84,21 +84,3 @@ A solo-built platform handling architecture, backend, frontend, and DevOps end t
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7c3aed?style=flat-square)
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkayZ&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="Berkay's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayZ&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" height="165">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BerkayZ&hide_border=true" alt="GitHub streak">
-</p>
-
-
----
-
-<p align="center">
-  <em>Let's build something. ☕</em>
-</p>
