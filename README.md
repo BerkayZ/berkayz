@@ -22,22 +22,8 @@
 I'm a backend engineer with 5+ years building production microservices, event-driven systems, and LLM-integrated multi-agent backends.
 
 - 🧠 Currently **Lead Software Engineer** at **IBility Teknoloji**, leading a 5-engineer team architecting LLM services for a mobile AI product.
-- 🛠️ Solo-building **[Cestra](https://cestra.ai)** — a multi-agent orchestration platform with native MCP support.
 - 🌱 Learning **Dutch** (A1) and always exploring something new in distributed systems & AI infra.
 - ☕ Running mostly on caffeine and curiosity.
-
----
-
-### 🤖 Featured project — Cestra
-
-> **Multi-Agent AI Orchestration Platform** · [cestra.ai](https://cestra.ai)
-
-A solo-built platform handling architecture, backend, frontend, and DevOps end to end:
-
-- **Orchestration engine** — role-based agent coordination, parallel execution, persistent memory, and handoff management across multi-agent workflows.
-- **Model-agnostic (BYOK)** — OpenAI, Anthropic, and Mistral support, with native **MCP** integration and a self-host option for zero vendor lock-in.
-- **Backend** — Node.js + Fastify microservices, PostgreSQL data layer, event-driven async execution, durable task queues.
-- **Production-grade by design** — human-in-the-loop approval checkpoints and full audit trails from day one.
 
 ---
 
